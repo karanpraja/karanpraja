@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhome)
+[![Linkedin Badge][(https://www.linkedin.com/in/karan-prajapat-246371228/)]
 <!--
 **karanpraja/karanpraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
