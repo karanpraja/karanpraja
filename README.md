@@ -1,4 +1,4 @@
-## Hi, I'm Karan! Nice to mmet you! 👋
+## Hi, I'm Karan! Nice to meet you! 👋
 - 🔭 I’m currently working on coding skills.
 - 🌱 I’m currently learning web devlopment.
 - 👯 I’m looking to collaborate on open source projects.
